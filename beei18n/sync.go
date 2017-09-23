@@ -18,7 +18,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/Unknwon/goconfig"
+	"github.com/epiqm/goconfig"
 )
 
 var cmdSync = &Command{

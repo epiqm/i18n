@@ -20,7 +20,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/Unknwon/goconfig"
+	"github.com/epiqm/goconfig"
 )
 
 var (
